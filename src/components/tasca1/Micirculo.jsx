@@ -5,7 +5,7 @@ function Micirculo () {
     return(
         <div>
             <div>
-                div class = ""
+                
 
             </div>
         </div>
